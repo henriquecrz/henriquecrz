@@ -1,6 +1,5 @@
 # Hello world, I'm Henrique 👋
 
-## About myself
 - I was born in Brazil and I'm currently living in Belo Horizonte/MG;
 - I'm 20 years old;
 - I started programming in 2016 during technical high school;
