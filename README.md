@@ -9,14 +9,15 @@
 - A fun fact is that I supposed to be a soccer player when I was younger.
 
 ## Technologies
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquecrz&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true"/>
+  <img align="center" alt="Henrique Andrade's stats chart" src="https://github-readme-stats.vercel.app/api?username=henriquecrz&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecrz&layout=compact&theme=dark" />
+  <img align="center" alt="Henrique Andrade's most used languages chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecrz&layout=compact&theme=dark" />
 </a>
 
 ## Contact
