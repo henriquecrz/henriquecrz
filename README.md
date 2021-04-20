@@ -8,8 +8,6 @@
 - I'm a server-side enthusiast;
 - A fun fact is that I supposed to be a soccer player when I was younger.
 
-LinkedIn, Gmail e Outlook
-
 ## Technologies
 
 <img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
@@ -19,6 +17,8 @@ LinkedIn, Gmail e Outlook
 <img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 
 <img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 
