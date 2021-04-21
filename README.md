@@ -28,6 +28,10 @@
 
 ## Stats
 
-<img align="center" alt="Henrique Andrade's stats chart" src="https://github-readme-stats.vercel.app/api?username=henriquecrz&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Henrique Andrade's stats chart" src="https://github-readme-stats.vercel.app/api?username=henriquecrz&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true"/>
+</a>
 
-<img align="center" alt="Henrique Andrade's most used languages chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecrz&layout=compact&theme=dark&hide=java"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Henrique Andrade's most used languages chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecrz&layout=compact&theme=dark&hide=java"/>
+</a>
