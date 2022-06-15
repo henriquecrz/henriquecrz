@@ -1,10 +1,10 @@
-# Hello world, I'm [Henrique Andrade](https://www.linkedin.com/in/henrique-andrade-cruz/) 👋
+# Hello world, I'm Henrique 👋
 
-- I was born in Brazil and I'm currently living in Belo Horizonte/MG;
-- I'm 20 years old;
+- Brazilian;
+- 21 years old;
 - I started programming in 2016 during technical high school;
 - I'm a graduate student of Software Engineering at PUC Minas;
-- I'm currently working on [Take Blip](https://github.com/takenet) as a Software Engineer;
+- I'm currently working on act digital (Banco Bmg) as a Software Engineer;
 - I'm a server-side enthusiast;
 - A fun fact is that I supposed to be a soccer player when I was younger.
 
