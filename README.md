@@ -1,7 +1,7 @@
 # Hello world, I'm Henrique 👋
 
-- Brazilian;
-- 21 years old;
+- Brazilian 🇧🇷;
+- 22 years old;
 - I started programming in 2016 during technical high school;
 - I'm a graduate student of Software Engineering at PUC Minas;
 - I'm currently working on act digital (Banco Bmg) as a Software Engineer;
