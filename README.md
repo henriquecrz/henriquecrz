@@ -4,9 +4,9 @@
 - 22 years old;
 - I started programming in 2016 during technical high school;
 - I'm a graduate student of Software Engineering at PUC Minas;
-- I'm currently working on act digital (Banco Bmg) as a Software Engineer;
+- I'm currently working at Stone as a Software Engineer;
 - I'm a server-side enthusiast;
-- A fun fact is that I supposed to be a soccer player when I was younger.
+- A fun fact is that I was supposed to be a soccer player when I was younger.
 
 ## Technologies
 
