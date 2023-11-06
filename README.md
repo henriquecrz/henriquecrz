@@ -1,7 +1,7 @@
 # Hello world, I'm Henrique 👋
 
 - Brazilian;
-- 22 years old;
+- 23 years old;
 - I started programming in 2016 during technical high school;
 - I'm a graduate student of Software Engineering at PUC Minas;
 - I'm currently working at Stone as a Software Engineer;
