@@ -1,12 +1,13 @@
 # Hello world, I'm Henrique 👋
 
-- Brazilian;
-- 23 years old;
-- I started programming in 2016 during technical high school;
-- I'm a graduate student of Software Engineering at PUC Minas;
-- I'm currently working at Stone as a Software Engineer;
-- I'm a server-side enthusiast;
-- A fun fact is that I was supposed to be a soccer player when I was younger.
+- Brazilian
+- 23 years old
+- Started programming in 2016 during technical high school
+- Computer Technician who graduated from Cotemig College
+- Software Engineer graduated from Pontifical Catholic University of Minas Gerais
+- Currently working at Stone as a Software Engineer
+- Server-side enthusiast
+- A fun fact is that I was supposed to be a soccer player when I was younger
 
 ## Technologies
 
@@ -17,8 +18,6 @@
 <img align="left" alt="JavaScript" height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
 <img align="left" alt="Node.js" height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-
-<img align="left" alt="Express" height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
 
 <img align="left" alt="SQL" height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 
