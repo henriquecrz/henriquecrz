@@ -1,7 +1,7 @@
 # Hello world, I'm Henrique 👋
 
 - Brazilian
-- 23 years old
+- 24 years old
 - Started programming in 2016 during technical high school
 - Computer Technician who graduated from Cotemig College
 - Software Engineer graduated from Pontifical Catholic University of Minas Gerais
