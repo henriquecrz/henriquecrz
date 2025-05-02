@@ -5,7 +5,7 @@
 - Started programming in 2016 during technical high school
 - Computer Technician who graduated from Cotemig College
 - Software Engineer graduated from Pontifical Catholic University of Minas Gerais
-- Currently working at Stone as a Software Engineer
+- Currently working at Mercado Livre as a Software Engineer
 - Server-side enthusiast
 - A fun fact is that I was supposed to be a soccer player when I was younger
 
