@@ -7,4 +7,4 @@
 - Server-side enthusiast
 - Fun fact: I was supposed to be a soccer player when I was younger
 
-
+Feel free to reach out — I'm always open to connecting!
